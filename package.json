@@ -9,7 +9,7 @@
   "version": "1.0.0",
   "description": "Projeto de calculadora em React Native",
   "main": "index.js",
-  "repository": "https://github.com/KalebCode/calculadoraReact.git",
+  "repository": "https://github.com/KalebCode/projetoReactP2.git",
   "author": "KalebCode",
   "license": "MIT"
 }
