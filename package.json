@@ -5,9 +5,9 @@
     "react": "16.0.0-alpha.12",
     "react-native-navigation-bar": "^0.2.1"
   },
-  "name": "calculadora",
+  "name": "ProjetoReact",
   "version": "1.0.0",
-  "description": "Projeto de calculadora em React Native",
+  "description": "Projeto em React Native",
   "main": "index.js",
   "repository": "https://github.com/KalebCode/projetoReactP2.git",
   "author": "KalebCode",
