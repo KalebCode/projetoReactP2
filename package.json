@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "expo": "^43.0.3",
+    "prop-types": "^15.7.2",
+    "react": "16.0.0-alpha.12",
+    "react-native-navigation-bar": "^0.2.1"
+  },
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Projeto de calculadora em React Native",
+  "main": "index.js",
+  "repository": "https://github.com/KalebCode/calculadoraReact.git",
+  "author": "KalebCode",
+  "license": "MIT"
+}
